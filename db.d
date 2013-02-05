@@ -68,7 +68,6 @@ struct table
         {
             data[tags[i]]~=eklenecek[i];
         }
-        writeln(data);
     }
     /**/
     void del(int id)
