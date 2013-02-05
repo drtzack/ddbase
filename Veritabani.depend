@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1360096326 source:e:\huseyin\projeler\d\veritabani\db.d
+	<std/stdio.d>
+	<std/conv.d>
+	<std/string.d>
+
+1360081506 e:\huseyin\projeler\d\veritabani\error.d
+
+1360090087 source:e:\huseyin\projeler\d\veritabani\error.d
+	<std/stdio.d>
+
+1360096475 source:e:\huseyin\projeler\d\veritabani\main.d
+	<std/stdio.d>
+	<db.d>
+
+1360100935 e:\huseyin\projeler\d\veritabani\db.d
+
