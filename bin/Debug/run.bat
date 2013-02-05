@@ -1,2 +1,0 @@
-Veritabani.exe
-pause
